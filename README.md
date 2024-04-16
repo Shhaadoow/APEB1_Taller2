@@ -1,6 +1,13 @@
-# Taller 2 (Laboratorio): Generación de diagramas UML
+# Taller 2 (Laboratorio)
 
-* Usar el programa DIA-UML para generar la representación vía diagramas de los siguientes problemas:
+## Generación de diagramas UML (Unified Modeling Language)
+
+* Leer detenidamente cada problemática propuesta.
+* Usar el programa DIA-UML (Open source) para generar la representación de su solución (modelado), vía diagramas de clases.
+* Para cada diagrama (modelado de su solución), genere 2 archivos (fuente e img: \*.dia y \*.png \*.jpeg, etc). No olvide titular a cada clase, con el nombre representativo del análisis/solución.
+* Para el nombrado de cada archivo use el formato: Problema-NroProbl_NombClase => ejemplo 
+> Problema-1_Trabajador
+* No es necesario crear subcarpetas para agregar el modelado de todas las soluciones, agregue todo en el directorio raíz.
 
 ## Problema 1
 
@@ -44,6 +51,7 @@
 		* obtenerDni
 		
 Agregar una coleeción de 4 objetos.
+
 ### Considerar:
 - Los datos deben ser públicos y los métodos privados
 - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada
@@ -52,6 +60,7 @@ Agregar una coleeción de 4 objetos.
 
 * Se necesita representar mediante un diagrama de clase y objetos (4), una entidad que permite administrar Instituciones Educativas de Primaria. Cada institución tienen como características: nombre, tipo de institución, número de alumnos, número de docentes, número de aulas.
 Se debe relacionar la clase con las objetos. 
+
 ### Considerar:
 - Los datos deben ser privados y los métodos públicos
 - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada
@@ -67,6 +76,7 @@ Para un sistema posterior, es necesario abstraer las características de disposi
 ## Problema 5
 
 Se requiere administrar los escenarios deportivos de la ciudad de Loja. Se ha realizado un análisis, cada escenario tiene propiedades como: nombre, número de espectadores, dirección, número de locales comerciales, número de puertas de entrada, número de camerinos. Se quiere realizar una representación entre la clase y 4 objetos.
+
 ### Considerar:
 - Los datos deben ser privados y los comportamientos privados
 - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada**
