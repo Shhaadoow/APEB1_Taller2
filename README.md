@@ -1,13 +1,13 @@
 # Taller 2 (Laboratorio)
 
-## Generación de diagramas UML (Unified Modeling Language)
+## Generación de diagramas UML _(Unified Modeling Language)_
 
 * Leer detenidamente cada problemática propuesta.
-* Usar el programa DIA-UML (Open source) para generar la representación de su solución (modelado), vía diagramas de clases.
-* Para cada diagrama (modelado de su solución), genere 2 archivos (fuente e img: \*.dia y \*.png \*.jpeg, etc). No olvide titular a cada clase, con el nombre representativo del análisis/solución.
-* Para el nombrado de cada archivo use el formato: Problema-NroProbl_NombClase => ejemplo 
-> Problema-1_Trabajador
-* No es necesario crear subcarpetas para agregar el modelado de todas las soluciones, agregue todo en el directorio raíz.
+* Usar el programa **DIA-UML** _(Open source)_ para generar la representación de su solución _(modelado)_, vía diagramas de clases.
+* Para cada diagrama/solución _(modelado de su solución)_, genere/agregue 2 archivos _(fuente e img: \*.dia y \*.png \*.jpeg, etc)_. No olvide titular a cada clase, con el nombre representativo del análisis/solución.
+* Para el nombrado de cada archivo use el formato: _Problema-NroProbl_NombClase_. Ejemplo 
+ **Problema-1_Trabajador**
+* No es necesario crear subCarpetas para agregar el modelado de cada solución, agregue todo, en el directorio raíz.
 
 ## Problema 1
 
@@ -28,11 +28,12 @@
 		* obtenerSueldo
 		* obtenerDni
 
-### Considerar:
-- Considerar: los datos deben ser públicos y los métodos públicos
-- Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada
+> [!Considerar]
+>  - Considerar: los datos deben ser públicos y los métodos públicos
+>  - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada
 
 ## Problema 2
+
 * Representar en un diagrama una clase con la siguiente problemática:
 	* Entidad o Sustantivo: Trabajador
 	* Atributos, características: 
