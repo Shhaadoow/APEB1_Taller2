@@ -78,6 +78,8 @@ La clase debe tener métodos para establecer y obtener cada uno de estos atribut
 > [!Note]
 > - Es potestad de su análisis, determinar los niveles de acceso para los datos de este objeto.
 
+___ 
+
 ## Problema 6
 
 Diseña una clase llamada Pedido para gestionar los pedidos realizados en una tienda online. La clase debe permitir registrar la información relevante de un pedido, como los productos solicitados, la cantidad de cada producto, el total del pedido y la dirección de envío.
