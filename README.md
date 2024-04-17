@@ -28,9 +28,11 @@
 		* obtenerSueldo
 		* obtenerDni
 
-> [!IMPORTANT]
+> [!Note]
 >  - Considerar: los datos deben ser públicos y los métodos públicos
 >  - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada
+
+___
 
 ## Problema 2
 
