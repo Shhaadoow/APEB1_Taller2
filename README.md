@@ -7,7 +7,7 @@
 * Para cada diagrama/solución _(modelado de su solución)_, genere/agregue 2 archivos _(fuente e imagen: \*.dia \*.mdj y \*.png \*.jpeg, etc)_. No olvide titular a cada clase, con el nombre representativo del análisis/solución.
 * Para el nombrado de cada archivo use el formato: _Problema-NroProbl_NombClase_. Ejemplo 
  **Problema-1_Trabajador**
-* No es necesario crear subCarpetas para agregar el modelado de cada solución, agregue todo, en el directorio raíz.
+* No es necesario crear subCarpetas para agregar el modelado de cada solución, agregue todo, en el directorio raíz de este repositorio.
 ___
 
 ## Problema 1
