@@ -1,4 +1,4 @@
-# Taller 2 (Laboratorio)
+# Taller 2 - Generación de diagramas UMLTaller 2 - Generación de diagramas UML
 
 ## Generación de diagramas UML _(Unified Modeling Language)_
 
