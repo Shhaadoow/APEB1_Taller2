@@ -3,7 +3,7 @@
 ## Generación de diagramas UML _(Unified Modeling Language)_
 
 * Leer detenidamente cada problemática propuesta.
-* Usar el programa **DIA-UML** _(Open source)_ para generar la representación de su solución _(modelado)_, vía diagramas de clases.
+* Usar el programa **DIA-UML** _(Open source)_, o StarUML, para generar la representación de su solución _(modelado)_, vía diagramas de clases.
 * Para cada diagrama/solución _(modelado de su solución)_, genere/agregue 2 archivos _(fuente e img: \*.dia y \*.png \*.jpeg, etc)_. No olvide titular a cada clase, con el nombre representativo del análisis/solución.
 * Para el nombrado de cada archivo use el formato: _Problema-NroProbl_NombClase_. Ejemplo 
  **Problema-1_Trabajador**
