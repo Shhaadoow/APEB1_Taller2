@@ -90,3 +90,10 @@ Este problema permite practicar el diseño de una clase para gestionar un aspect
 
 > [!Note]
 > - Es potestad de su análisis, determinar los niveles de acceso para los datos de los objetos involucrados.
+>
+## Problema 7
+
+Diseñe una clase en UML para representar un emprendimiento en la ciudad de Loja, considerando que cada emprendimiento posee un nombre comercial, RUC, sector económico (gastronomía, tecnología, moda, etc.), propietario, y ubicación. Además, debe contar con atributos que permitan registrar su fecha de inicio de actividades y capital inicial. La clase debe incluir métodos para actualizar información del emprendimiento, calcular su antigüedad en años y determinar si es un micro, pequeño o mediano negocio en función de su capital.
+
+> [!Note]
+> - Como resultado de su análisis, determinar los niveles de acceso para los datos de los objetos involucrados (atributos, constructores y métodos).
